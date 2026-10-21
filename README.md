@@ -1,6 +1,6 @@
 ## Hey, I'm Daniel 👋
 
-I like working on Security-related stuff for apps, mostly in the [Spring](https://spring.io) ecosystem. I contribute to [spring-security](https://github.com/spring-projects/spring-security).
+I like working on Security-related stuff for apps, mostly in the [Spring](https://spring.io) ecosystem. I contribute to [MCP for java](https://github.com/modelcontextprotocol/java-sdk), and occasionally [spring-ai](https://github.com/spring-projects/spring-ai) and [spring-security](https://github.com/spring-projects/spring-security).
 
 Find me online:
 
