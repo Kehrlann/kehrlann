@@ -10,4 +10,4 @@ Find me online:
 
 🤩 Vanity stats:
 
-![kehrlann's Stats](https://github-readme-stats.vercel.app/api?username=kehrlann&theme=default&show_icons=true&hide_border=false&count_private=true)
+![kehrlann's Stats](https://github-stats-extended.vercel.app/api?username=kehrlann)
